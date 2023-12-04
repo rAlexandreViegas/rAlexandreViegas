@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Alexandre
-### French student at <a href="https://www.prepavenir-formation.fr/">Prepavenir</a>, my ambition is to evolve into a Full Stack Web Developer. I am currently working on improving my skills in the MERN stack and appreciate keeping up with the latest technologies.
+French student at <a href="https://www.prepavenir-formation.fr/">Prepavenir</a>, my ambition is to evolve into a Full Stack Web Developer. I am currently working on improving my skills in the MERN stack and appreciate keeping up with the latest technologies.
 
 <br/>
 
@@ -21,10 +21,10 @@
 <br/>
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,nodejs,php,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,jquery,bootstrap,tailwind,html,css,scss)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,expressjs,symfony)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,php,symfony,python)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,prisma,figma)](https://skillicons.dev)

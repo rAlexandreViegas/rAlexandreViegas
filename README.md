@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Alexandre
 
-As a Full Stack Developer, I have contributed to various projects designed for both educational and personal purposes. You can explore all these projects on this page.
+As a Full Stack Web Developer, I have contributed to various projects designed for both educational and personal purposes. You can explore all these projects on this page.
 
 ### Main Stack
 
@@ -30,31 +30,27 @@ As a Full Stack Developer, I have contributed to various projects designed for b
 ## 🚀 Skills
 
 <p style="display: flex; gap: 0.5rem;">
-  <img src="icons/JavaScript.svg" style="width: 50px">
-  <img src="icons/JQuery.svg" style="width: 50px">
-  <img src="icons/Bootstrap.svg" style="width: 50px">
-  <img src="icons/TailwindCSS-Light.svg" style="width: 50px">
+  <img src="icons/TypeScript.svg" style="width: 50px">
+  <img src="icons/Sass.svg" style="width: 50px">
   <img src="icons/HTML.svg" style="width: 50px">
   <img src="icons/CSS.svg" style="width: 50px">
-  <img src="icons/Sass.svg" style="width: 50px">
+  <img src="icons/Bootstrap.svg" style="width: 50px">
+  <img src="icons/TailwindCSS-Light.svg" style="width: 50px">
 </p>
 
 <p style="display: flex; gap: 0.5rem;">
-  <img src="icons/PHP-Dark.svg" style="width: 50px">
   <img src="icons/Symfony-Dark.svg" style="width: 50px">
-  <img src="icons/Python-Dark.svg" style="width: 50px">
+  <img src="icons/PHP-Dark.svg" style="width: 50px">
 </p>
 
 <p style="display: flex; gap: 0.5rem;">
+  <img src="icons/PostgreSQL-Dark.svg" style="width: 50px">
   <img src="icons/MySQL-Dark.svg" style="width: 50px">
   <img src="icons/MariaDB.png" style="width: 50px">
-  <img src="icons/PostgreSQL-Dark.svg" style="width: 50px">
 </p>
 
 <p style="display: flex; gap: 0.5rem;">
   <img src="icons/Git.svg" style="width: 50px">
-  <img src="icons/Postman.svg" style="width: 50px">
   <img src="icons/Docker.svg" style="width: 50px">
-  <img src="icons/Prisma.svg" style="width: 50px">
   <img src="icons/Figma-Light.svg" style="width: 50px">
 </p>

@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Alexandre
 
-As a Full Stack Web Developer, I have contributed to various projects designed for both educational and personal purposes. You can explore all these projects on this page.
+As a Full Stack Developer, I have contributed to various projects designed for both educational and personal purposes. You can explore all these projects on this page.
 
 ### Main Stack
 

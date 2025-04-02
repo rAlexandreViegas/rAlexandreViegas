@@ -14,7 +14,7 @@ As a Full Stack Web Developer, I have contributed to various projects designed f
 ## 📭 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexandre-pereira-viegas/">
+  <a href="https://www.linkedin.com/in/alexandre-p-viegas/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <span>&nbsp;</span>
@@ -22,7 +22,7 @@ As a Full Stack Web Developer, I have contributed to various projects designed f
     <img src="https://img.shields.io/badge/-EMAIL-ffffff?style=for-the-badge&logo=icloud" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://www.alexandreviegas.com/">
+  <a href="https://portfolio-gamma-coral-85.vercel.app/">
     <img src="https://img.shields.io/badge/alexandreviegas.com-000000?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>

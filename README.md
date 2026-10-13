@@ -1,56 +1,32 @@
-## Hey 👋, I'm Alexandre
+# Hey, I'm Alexandre 👋
 
-As a Full Stack Developer, I have contributed to various projects designed for both educational and personal purposes. You can explore all these projects on this page.
+I am a **1st-year Physics student at Sorbonne Université**, pivoting completely from software development to pursue my goal: **Nuclear Physics**.
 
-### Main Stack
+---
 
-<p>
-  <img src="icons/MongoDB.svg" style="width: 50px">
-  <img src="icons/ExpressJS-Dark.svg" style="width: 50px">
-  <img src="icons/React-Dark.svg" style="width: 50px">
-  <img src="icons/NodeJS-Dark.svg" style="width: 50px">
-</p>
+### 👦 About me
 
-## 📭 Contact
+- 🎓 **Bachelor of Science in Physics** — Sorbonne Université (2026 – Present)
+- 🧪 **Access to Higher Education Diploma in Science (DAEU B)** — Université Sorbonne Paris Nord (*Highest Honors*, 2024 – 2025)
+- 🎯 **Objective:** Nuclear physics and related engineering fields.
+- 💡 **Background:** Former web developer, now leveraging my programming background to learn scientific computing and physics.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexandre-p-viegas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="mailto:alexandre_viegas@icloud.com">
-    <img src="https://img.shields.io/badge/-EMAIL-ffffff?style=for-the-badge&logo=icloud" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://portfolio-gamma-coral-85.vercel.app/">
-    <img src="https://img.shields.io/badge/alexandreviegas.com-000000?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</p>
+---
 
-## 🚀 Skills
+### 🛠️ What I Use
 
-<p style="display: flex; gap: 0.5rem;">
-  <img src="icons/TypeScript.svg" style="width: 50px">
-  <img src="icons/Sass.svg" style="width: 50px">
-  <img src="icons/HTML.svg" style="width: 50px">
-  <img src="icons/CSS.svg" style="width: 50px">
-  <img src="icons/Bootstrap.svg" style="width: 50px">
-  <img src="icons/TailwindCSS-Light.svg" style="width: 50px">
-</p>
+#### Currently learning for physics
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<p style="display: flex; gap: 0.5rem;">
-  <img src="icons/Symfony-Dark.svg" style="width: 50px">
-  <img src="icons/PHP-Dark.svg" style="width: 50px">
-</p>
+#### Engineering & Tooling (from previous dev experience)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p style="display: flex; gap: 0.5rem;">
-  <img src="icons/PostgreSQL-Dark.svg" style="width: 50px">
-  <img src="icons/MySQL-Dark.svg" style="width: 50px">
-  <img src="icons/MariaDB.png" style="width: 50px">
-</p>
+---
 
-<p style="display: flex; gap: 0.5rem;">
-  <img src="icons/Git.svg" style="width: 50px">
-  <img src="icons/Docker.svg" style="width: 50px">
-  <img src="icons/Figma-Light.svg" style="width: 50px">
-</p>
+### 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-p-viegas)
+[![Email](https://img.shields.io/badge/Email-alexandre__viegas@icloud.com-D14836?style=flat-square&logo=icloud&logoColor=white)](mailto:alexandre_viegas@icloud.com)
+[![Website](https://img.shields.io/badge/Website-alexandreviegas.com-black?style=flat-square)](https://alexandreviegas.com)

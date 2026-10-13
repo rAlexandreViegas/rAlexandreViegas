@@ -15,18 +15,35 @@ I am a **1st-year Physics student at Sorbonne Université**, pivoting completely
 
 ### 🛠️ What I Use
 
-#### Currently learning for physics
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
+#### Currently learning
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py" />
+</a>
 
-#### Engineering & Tooling (from previous dev experience)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+#### Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,linux,docker&theme=light" />
+</a>
+
+#### Past software development stack
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,express,nodejs,mongodb,postgres,prisma" />
+</a>
 
 ---
 
 ### 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-p-viegas)
-[![Email](https://img.shields.io/badge/Email-alexandre__viegas@icloud.com-D14836?style=flat-square&logo=icloud&logoColor=white)](mailto:alexandre_viegas@icloud.com)
-[![Website](https://img.shields.io/badge/Website-alexandreviegas.com-black?style=flat-square)](https://alexandreviegas.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandre-p-viegas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="mailto:alexandre_viegas@icloud.com">
+    <img src="https://img.shields.io/badge/-EMAIL-ffffff?style=for-the-badge&logo=icloud" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://portfolio-gamma-coral-85.vercel.app/">
+    <img src="https://img.shields.io/badge/alexandreviegas.com-000000?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
